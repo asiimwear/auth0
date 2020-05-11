@@ -1,0 +1,11 @@
+{
+  "name": "auth0",
+  "version": "0.0.1",
+  "description": "working wiht auth0 for the first time",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "asiimearnold",
+  "license": "UNLICENSED"
+}
